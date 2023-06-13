@@ -11,7 +11,7 @@ To allow you to change to myenv in jupyter notebook
 
 
 
-
+**DESCRIPTION**
 - Used relevant libraries that help with data visualization and experimented with invoking Youtube’s API to collect relevant data. 
   - Pandas, Youtube’s API, seaborn
 - To provide creators with a comprehensive understanding of their YouTube channel's performance, audience engagement, and content optimization opportunities.
